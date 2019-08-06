@@ -1,18 +1,18 @@
 
-# Dart  Stars 1000以内排名整理
+# dart  Stars 1000以内排名整理
 
 |ID|Name|Describe|Stars|
 |:---:|:---:|:---:|:---:|
-|1|[flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful mobile apps.|71.9k
+|1|[flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful mobile apps.|72k
 |2|[awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|20.6k
-|3|[flutter-go](https://github.com/alibaba/flutter-go)|flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档|15.3k
+|3|[flutter-go](https://github.com/alibaba/flutter-go)|flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档|15.4k
 |4|[GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)|超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续…|8k
 |5|[plugins](https://github.com/flutter/plugins)|Plugins for Flutter, including FlutterFire, maintained by the Flutter team|7.4k
 |6|[FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)|[Example APPS] Basic Flutter apps, for flutter devs.|5.9k
 |7|[flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)|Examples of using, and testbed for, the in-development Flutter for Desktop|5.6k
 |8|[dio](https://github.com/flutterchina/dio)|A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeo…|5k
 |9|[fish-redux](https://github.com/alibaba/fish-redux)|An assembled flutter application framework.|4.9k
-|10|[flutter_web](https://github.com/flutter/flutter_web)|Bring your Flutter code to web browsers|4.1k
+|10|[flutter_web](https://github.com/flutter/flutter_web)|Bring your Flutter code to web browsers|4.2k
 |11|[sdk](https://github.com/dart-lang/sdk)|The Dart SDK, including the VM, dart2js, core libraries, and more.|4.1k
 |12|[Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook)|日更的FlutterDemo合集，今天你fu了吗|4k
 |13|[HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)|Flutter Launch Timeline Demo|3.8k
@@ -49,18 +49,18 @@
 |44|[MXFlutter](https://github.com/TGIF-iMatrix/MXFlutter)|基于JS的高性能Flutter动态化框架 high-performance Flutter dynamic framework based on JS|1.1k
 |45|[provider](https://github.com/rrousselGit/provider)|A mixture between dependency injection (DI) and state management, built with widgets for widgets.|1k
 |46|[fluwx](https://github.com/OpenFlutter/fluwx)|Flutter版微信SDK.WeChat SDK for flutter.|1k
-|47|[flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.|991
+|47|[flutter_spinkit](https://github.com/jogboms/flutter_spinkit)|✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.|992
 |48|[charts](https://github.com/google/charts)||971
 |49|[flutter-ui](https://github.com/efoxTeam/flutter-ui)|Flutter 开发组件库中文社区|967
 |50|[flutter_redux](https://github.com/brianegan/flutter_redux)|A library that connects Widgets to a Redux Store|959
-|51|[morec](https://github.com/Mayandev/morec)|🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.|930
+|51|[morec](https://github.com/Mayandev/morec)|🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.|931
 |52|[flutter_study](https://github.com/luhenchang/flutter_study)|三天学会Flutter|913
 |53|[udacity-course](https://github.com/flutter/udacity-course)|Build native mobile apps with Flutter|912
 |54|[flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view)|A Flutter staggered grid view|899
-|55|[flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A widget provided to the flutter scroll component pull-refresh and push-load.|894
-|56|[flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|882
-|57|[GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter)|Flutter淘宝App，支持iOS、Android|865
+|55|[flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A widget provided to the flutter scroll component pull-refresh and push-load.|895
+|56|[flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|884
+|57|[GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter)|Flutter淘宝App，支持iOS、Android|866
 |58|[flutter_ui_challenges](https://github.com/tomialagbe/flutter_ui_challenges)|Flutter UI Challenges|827
 |59|[StageXL](https://github.com/bp74/StageXL)|A fast and universal 2D rendering engine for HTML5 and Dart.|808
 |60|[spritewidget](https://github.com/spritewidget/spritewidget)||807
-|61|[flutter_slidable](https://github.com/letsar/flutter_slidable)|A Flutter implementation of slidable list item with directional slide actions.|802
+|61|[flutter_slidable](https://github.com/letsar/flutter_slidable)|A Flutter implementation of slidable list item with directional slide actions.|804
